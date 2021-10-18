@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Prof. Dr. x Chowdhury",
+        "degree": "MBBS, FCPS (Pediatrics), FRCP (Glasgow)",
+        "catagory": "Child Diseased Specialist",
+        "img": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male-75x85.jpg",
+        "visit": 2000,
+        "about": "Prof. Dr. x Chowdhury is a Child Diseased Specialist doctor in Chittagong. His qualification is MBBS, FCPS (Pediatrics), FRCP (Glasgow). He is a Professor & Head (Ex) in the Department of Pediatric at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Surgiscope Hospital, Chittagong. Practicing hour of Prof. Dr. Pranab Kumar Chowdhury at Surgiscope Hospital, Chittagong is 6pm to 9pm (Closed: Monday & Friday)."
+    },
+    {
+        "id": 2,
+        "name": "Prof. Dr. Y",
+        "degree": "MBBS, FCPS (Pediatrics), FRCP (Glasgow)",
+        "catagory": "Child Diseased Specialist",
+        "img": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male-75x85.jpg",
+        "visit": 1000,
+        "about": "Prof. Dr. Y is a Child Diseased Specialist doctor in Chittagong. His qualification is MBBS, FCPS (Pediatrics), FRCP (Glasgow). He is a Professor & Head (Ex) in the Department of Pediatric at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Surgiscope Hospital, Chittagong. Practicing hour of Prof. Dr. Pranab Kumar Chowdhury at Surgiscope Hospital, Chittagong is 6pm to 9pm (Closed: Monday & Friday)."
+    },
+    {
+        "id": 3,
+        "name": "Prof. Dr. A das",
+        "degree": "MBBS, FCPS (Pediatrics), FRCP (Glasgow)",
+        "catagory": "Child Diseased Specialist",
+        "img": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male-75x85.jpg",
+        "visit": 2500,
+        "about": "Prof. Dr. A das is a Child Diseased Specialist doctor in Chittagong. His qualification is MBBS, FCPS (Pediatrics), FRCP (Glasgow). He is a Professor & Head (Ex) in the Department of Pediatric at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Surgiscope Hospital, Chittagong. Practicing hour of Prof. Dr. Pranab Kumar Chowdhury at Surgiscope Hospital, Chittagong is 6pm to 9pm (Closed: Monday & Friday)."
+    },
+    {
+        "id": 4,
+        "name": "Prof. Dr. Robin",
+        "degree": "MBBS, FCPS (Pediatrics), FRCP (Glasgow)",
+        "catagory": "Child Diseased Specialist",
+        "img": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male-75x85.jpg",
+        "visit": 800,
+        "about": "Prof. Dr. Robin is a Child Diseased Specialist doctor in Chittagong. His qualification is MBBS, FCPS (Pediatrics), FRCP (Glasgow). He is a Professor & Head (Ex) in the Department of Pediatric at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Surgiscope Hospital, Chittagong. Practicing hour of Prof. Dr. Pranab Kumar Chowdhury at Surgiscope Hospital, Chittagong is 6pm to 9pm (Closed: Monday & Friday)."
+    },
+    {
+        "id": 5,
+        "name": "Prof. Dr. M A Chowdhury",
+        "degree": "MBBS, FCPS (Pediatrics), FRCP (Glasgow)",
+        "catagory": "Child Diseased Specialist",
+        "img": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male-75x85.jpg",
+        "visit": 1200,
+        "about": "Prof. Dr.  M A Chowdhury is a Child Diseased Specialist doctor in Chittagong. His qualification is MBBS, FCPS (Pediatrics), FRCP (Glasgow). He is a Professor & Head (Ex) in the Department of Pediatric at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Surgiscope Hospital, Chittagong. Practicing hour of Prof. Dr. Pranab Kumar Chowdhury at Surgiscope Hospital, Chittagong is 6pm to 9pm (Closed: Monday & Friday)."
+    },
+    {
+        "id": 6,
+        "name": "Prof. Dr. R Sukla",
+        "degree": "MBBS, FCPS (Pediatrics), FRCP (Glasgow)",
+        "catagory": "Child Diseased Specialist",
+        "img": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male-75x85.jpg",
+        "visit": 1400,
+        "about": "Prof. Dr. R Sukla is a Child Diseased Specialist doctor in Chittagong. His qualification is MBBS, FCPS (Pediatrics), FRCP (Glasgow). He is a Professor & Head (Ex) in the Department of Pediatric at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Surgiscope Hospital, Chittagong. Practicing hour of Prof. Dr. Pranab Kumar Chowdhury at Surgiscope Hospital, Chittagong is 6pm to 9pm (Closed: Monday & Friday)."
+    },
+    {
+        "id": 7,
+        "name": "Prof. Dr. Atil",
+        "degree": "MBBS, FCPS (Pediatrics), FRCP (Glasgow)",
+        "catagory": "Child Diseased Specialist",
+        "img": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male-75x85.jpg",
+        "visit": 1000,
+        "about": "Prof. Dr.  Atil is a Child Diseased Specialist doctor in Chittagong. His qualification is MBBS, FCPS (Pediatrics), FRCP (Glasgow). He is a Professor & Head (Ex) in the Department of Pediatric at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Surgiscope Hospital, Chittagong. Practicing hour of Prof. Dr. Pranab Kumar Chowdhury at Surgiscope Hospital, Chittagong is 6pm to 9pm (Closed: Monday & Friday)."
+    },
+    {
+        "id": 8,
+        "name": "Prof. Dr. Ali",
+        "degree": "MBBS, FCPS (Pediatrics), Kwce (Glasgow)",
+        "catagory": "Child Diseased Specialist",
+        "img": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male-75x85.jpg",
+        "visit": 1500,
+        "about": "Prof. Dr. Ali is a Child Diseased Specialist doctor in Chittagong. His qualification is MBBS, FCPS (Pediatrics), FRCP (Glasgow). He is a Professor & Head (Ex) in the Department of Pediatric at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Surgiscope Hospital, Chittagong. Practicing hour of Prof. Dr. Pranab Kumar Chowdhury at Surgiscope Hospital, Chittagong is 6pm to 9pm (Closed: Monday & Friday)."
+    },
+    {
+        "id": 9,
+        "name": "Prof. Dr. Nur Chowdhury",
+        "degree": "MBBS, FCPS (Pediatrics), ",
+        "catagory": "Child Diseased Specialist",
+        "img": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male-75x85.jpg",
+        "visit": 1200,
+        "about": "Prof. Dr. Nur Chowdhury is a Child Diseased Specialist doctor in Chittagong. His qualification is MBBS, FCPS (Pediatrics), FRCP (Glasgow). He is a Professor & Head (Ex) in the Department of Pediatric at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Surgiscope Hospital, Chittagong. Practicing hour of Prof. Dr. Pranab Kumar Chowdhury at Surgiscope Hospital, Chittagong is 6pm to 9pm (Closed: Monday & Friday)."
+    },
+    {
+        "id": 10,
+        "name": "Prof. Dr. Alfa",
+        "degree": "MBBS,  FRCP (Glasgow)",
+        "catagory": "Child Diseased Specialist",
+        "img": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male-75x85.jpg",
+        "visit": 1800,
+        "about": "Prof. Dr. x Chowdhury is a Child Diseased Specialist doctor in Chittagong. His qualification is MBBS, FCPS (Pediatrics), FRCP (Glasgow). He is a Professor & Head (Ex) in the Department of Pediatric at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Surgiscope Hospital, Chittagong. Practicing hour of Prof. Dr. Pranab Kumar Chowdhury at Surgiscope Hospital, Chittagong is 6pm to 9pm (Closed: Monday & Friday)."
+    }
+]
