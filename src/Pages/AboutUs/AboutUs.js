@@ -1,4 +1,5 @@
 import React from 'react';
+import Footer from '../Footer/Footer';
 import './AboutUs.css'
 
 const AboutUs = () => {
@@ -20,6 +21,9 @@ const AboutUs = () => {
                 <p>Our aim is to deliver authentic information of specialist doctor, chamber, diagnostic center, clinic, etc. We are dedicated to provide credible health information to people & offering suitable platform to the people in health care industry by furnishing them their desired information.
 
                 </p>
+            </div>
+            <div className="mt-5">
+                <Footer></Footer>
             </div>
         </div>
     );

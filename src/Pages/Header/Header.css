@@ -1,3 +1,10 @@
+.main-nav-container{
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
 .header {
     background-color: #26334b;
    display: flex;
