@@ -40,6 +40,9 @@ function App() {
             <Route path="/login">
               <Login></Login>
             </Route>
+            <PrivateRoute path="/booking">
+              <Booking></Booking>
+            </PrivateRoute>
             <PrivateRoute path="/booking/:serviceId">
               <Booking></Booking>
             </PrivateRoute>
