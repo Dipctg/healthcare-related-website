@@ -1,10 +1,10 @@
-# Getting Started with Doctors-Care App
+# Getting Started with Doctors-Care App with ReactJs
+### `Website name:  Doctors-Care `
 ### ` Healthcare related website. ` 
-### ` Doctors-Care. ` 
+### ` Client can booking services ` 
+### ` Google authentication Enable ` 
 
 
-## Available Scripts
- ` `
 
 
 ### `website link:       ` 
